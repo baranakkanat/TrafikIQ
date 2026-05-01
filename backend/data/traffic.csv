@@ -1,0 +1,1345 @@
+segment_id,road_name,day_of_week,hour,is_weekend,is_rush_hour,is_midday,road_type,near_junction,speed_limit,congestion_level
+seg_001,Köşklüçiftlik Kavşağı,0,0,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,0,1,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,0,2,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,0,3,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,0,4,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,0,5,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,0,6,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,0,7,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,0,8,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,0,9,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,0,10,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,0,11,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,0,12,0,0,1,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,0,13,0,0,1,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,0,14,0,0,1,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,0,15,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,0,16,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,0,17,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,0,18,0,1,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,0,19,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,0,20,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,0,21,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,0,22,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,0,23,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,1,0,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,1,1,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,1,2,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,1,3,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,1,4,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,1,5,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,1,6,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,1,7,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,1,8,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,1,9,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,1,10,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,1,11,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,1,12,0,0,1,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,1,13,0,0,1,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,1,14,0,0,1,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,1,15,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,1,16,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,1,17,0,1,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,1,18,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,1,19,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,1,20,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,1,21,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,1,22,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,1,23,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,2,0,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,2,1,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,2,2,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,2,3,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,2,4,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,2,5,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,2,6,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,2,7,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,2,8,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,2,9,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,2,10,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,2,11,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,2,12,0,0,1,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,2,13,0,0,1,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,2,14,0,0,1,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,2,15,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,2,16,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,2,17,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,2,18,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,2,19,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,2,20,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,2,21,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,2,22,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,2,23,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,3,0,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,3,1,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,3,2,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,3,3,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,3,4,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,3,5,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,3,6,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,3,7,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,3,8,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,3,9,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,3,10,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,3,11,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,3,12,0,0,1,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,3,13,0,0,1,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,3,14,0,0,1,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,3,15,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,3,16,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,3,17,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,3,18,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,3,19,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,3,20,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,3,21,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,3,22,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,3,23,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,4,0,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,4,1,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,4,2,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,4,3,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,4,4,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,4,5,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,4,6,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,4,7,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,4,8,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,4,9,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,4,10,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,4,11,0,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,4,12,0,0,1,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,4,13,0,0,1,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,4,14,0,0,1,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,4,15,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,4,16,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,4,17,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,4,18,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,4,19,0,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,4,20,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,4,21,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,4,22,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,4,23,0,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,5,0,1,0,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,5,1,1,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,5,2,1,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,5,3,1,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,5,4,1,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,5,5,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,5,6,1,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,5,7,1,1,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,5,8,1,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,5,9,1,1,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,5,10,1,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,5,11,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,5,12,1,0,1,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,5,13,1,0,1,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,5,14,1,0,1,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,5,15,1,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,5,16,1,0,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,5,17,1,1,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,5,18,1,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,5,19,1,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,5,20,1,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,5,21,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,5,22,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,5,23,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,6,0,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,6,1,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,6,2,1,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,6,3,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,6,4,1,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,6,5,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,6,6,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,6,7,1,1,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,6,8,1,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,6,9,1,1,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,6,10,1,0,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,6,11,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,6,12,1,0,1,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,6,13,1,0,1,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,6,14,1,0,1,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,6,15,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,6,16,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,6,17,1,1,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,6,18,1,1,0,urban,1,50,3
+seg_001,Köşklüçiftlik Kavşağı,6,19,1,1,0,urban,1,50,2
+seg_001,Köşklüçiftlik Kavşağı,6,20,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,6,21,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,6,22,1,0,0,urban,1,50,1
+seg_001,Köşklüçiftlik Kavşağı,6,23,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,0,0,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,0,1,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,0,2,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,0,3,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,0,4,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,0,5,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,0,6,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,0,7,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,0,8,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,0,9,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,0,10,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,0,11,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,0,12,0,0,1,urban,1,50,2
+seg_002,Gönyeli Kavşağı,0,13,0,0,1,urban,1,50,2
+seg_002,Gönyeli Kavşağı,0,14,0,0,1,urban,1,50,3
+seg_002,Gönyeli Kavşağı,0,15,0,0,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,0,16,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,0,17,0,1,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,0,18,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,0,19,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,0,20,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,0,21,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,0,22,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,0,23,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,1,0,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,1,1,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,1,2,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,1,3,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,1,4,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,1,5,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,1,6,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,1,7,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,1,8,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,1,9,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,1,10,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,1,11,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,1,12,0,0,1,urban,1,50,2
+seg_002,Gönyeli Kavşağı,1,13,0,0,1,urban,1,50,3
+seg_002,Gönyeli Kavşağı,1,14,0,0,1,urban,1,50,3
+seg_002,Gönyeli Kavşağı,1,15,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,1,16,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,1,17,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,1,18,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,1,19,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,1,20,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,1,21,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,1,22,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,1,23,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,2,0,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,2,1,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,2,2,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,2,3,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,2,4,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,2,5,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,2,6,0,0,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,2,7,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,2,8,0,1,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,2,9,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,2,10,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,2,11,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,2,12,0,0,1,urban,1,50,2
+seg_002,Gönyeli Kavşağı,2,13,0,0,1,urban,1,50,2
+seg_002,Gönyeli Kavşağı,2,14,0,0,1,urban,1,50,2
+seg_002,Gönyeli Kavşağı,2,15,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,2,16,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,2,17,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,2,18,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,2,19,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,2,20,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,2,21,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,2,22,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,2,23,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,3,0,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,3,1,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,3,2,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,3,3,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,3,4,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,3,5,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,3,6,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,3,7,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,3,8,0,1,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,3,9,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,3,10,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,3,11,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,3,12,0,0,1,urban,1,50,2
+seg_002,Gönyeli Kavşağı,3,13,0,0,1,urban,1,50,3
+seg_002,Gönyeli Kavşağı,3,14,0,0,1,urban,1,50,3
+seg_002,Gönyeli Kavşağı,3,15,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,3,16,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,3,17,0,1,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,3,18,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,3,19,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,3,20,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,3,21,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,3,22,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,3,23,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,4,0,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,4,1,0,0,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,4,2,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,4,3,0,0,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,4,4,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,4,5,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,4,6,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,4,7,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,4,8,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,4,9,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,4,10,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,4,11,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,4,12,0,0,1,urban,1,50,2
+seg_002,Gönyeli Kavşağı,4,13,0,0,1,urban,1,50,3
+seg_002,Gönyeli Kavşağı,4,14,0,0,1,urban,1,50,1
+seg_002,Gönyeli Kavşağı,4,15,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,4,16,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,4,17,0,1,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,4,18,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,4,19,0,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,4,20,0,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,4,21,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,4,22,0,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,4,23,0,0,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,5,0,1,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,5,1,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,2,1,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,5,3,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,4,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,5,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,6,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,7,1,1,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,5,8,1,1,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,5,9,1,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,5,10,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,11,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,12,1,0,1,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,13,1,0,1,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,14,1,0,1,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,15,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,16,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,17,1,1,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,5,18,1,1,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,19,1,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,5,20,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,21,1,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,5,22,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,5,23,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,0,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,1,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,2,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,3,1,0,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,6,4,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,5,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,6,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,7,1,1,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,6,8,1,1,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,6,9,1,1,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,6,10,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,11,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,12,1,0,1,urban,1,50,2
+seg_002,Gönyeli Kavşağı,6,13,1,0,1,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,14,1,0,1,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,15,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,16,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,17,1,1,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,6,18,1,1,0,urban,1,50,3
+seg_002,Gönyeli Kavşağı,6,19,1,1,0,urban,1,50,2
+seg_002,Gönyeli Kavşağı,6,20,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,21,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,22,1,0,0,urban,1,50,1
+seg_002,Gönyeli Kavşağı,6,23,1,0,0,urban,1,50,1
+seg_003,Mağusa Yolu,0,0,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,0,1,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,0,2,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,0,3,0,0,0,highway,0,80,2
+seg_003,Mağusa Yolu,0,4,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,0,5,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,0,6,0,0,0,highway,0,80,2
+seg_003,Mağusa Yolu,0,7,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,0,8,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,0,9,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,0,10,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,0,11,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,0,12,0,0,1,highway,0,80,2
+seg_003,Mağusa Yolu,0,13,0,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,0,14,0,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,0,15,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,0,16,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,0,17,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,0,18,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,0,19,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,0,20,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,0,21,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,0,22,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,0,23,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,0,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,1,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,2,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,3,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,4,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,5,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,6,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,7,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,1,8,0,1,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,9,0,1,0,highway,0,80,3
+seg_003,Mağusa Yolu,1,10,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,11,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,12,0,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,1,13,0,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,1,14,0,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,1,15,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,16,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,17,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,1,18,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,1,19,0,1,0,highway,0,80,3
+seg_003,Mağusa Yolu,1,20,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,21,0,0,0,highway,0,80,2
+seg_003,Mağusa Yolu,1,22,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,1,23,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,2,0,0,0,0,highway,0,80,2
+seg_003,Mağusa Yolu,2,1,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,2,2,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,2,3,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,2,4,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,2,5,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,2,6,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,2,7,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,2,8,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,2,9,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,2,10,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,2,11,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,2,12,0,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,2,13,0,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,2,14,0,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,2,15,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,2,16,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,2,17,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,2,18,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,2,19,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,2,20,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,2,21,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,2,22,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,2,23,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,3,0,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,3,1,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,3,2,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,3,3,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,3,4,0,0,0,highway,0,80,2
+seg_003,Mağusa Yolu,3,5,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,3,6,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,3,7,0,1,0,highway,0,80,3
+seg_003,Mağusa Yolu,3,8,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,3,9,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,3,10,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,3,11,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,3,12,0,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,3,13,0,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,3,14,0,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,3,15,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,3,16,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,3,17,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,3,18,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,3,19,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,3,20,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,3,21,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,3,22,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,3,23,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,4,0,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,4,1,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,4,2,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,4,3,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,4,4,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,4,5,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,4,6,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,4,7,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,4,8,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,4,9,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,4,10,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,4,11,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,4,12,0,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,4,13,0,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,4,14,0,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,4,15,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,4,16,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,4,17,0,1,0,highway,0,80,3
+seg_003,Mağusa Yolu,4,18,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,4,19,0,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,4,20,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,4,21,0,0,0,highway,0,80,2
+seg_003,Mağusa Yolu,4,22,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,4,23,0,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,0,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,1,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,2,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,3,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,4,1,0,0,highway,0,80,2
+seg_003,Mağusa Yolu,5,5,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,6,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,7,1,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,5,8,1,1,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,9,1,1,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,10,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,11,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,12,1,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,5,13,1,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,5,14,1,0,1,highway,0,80,2
+seg_003,Mağusa Yolu,5,15,1,0,0,highway,0,80,2
+seg_003,Mağusa Yolu,5,16,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,17,1,1,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,18,1,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,5,19,1,1,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,20,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,21,1,0,0,highway,0,80,2
+seg_003,Mağusa Yolu,5,22,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,5,23,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,0,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,1,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,2,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,3,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,4,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,5,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,6,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,7,1,1,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,8,1,1,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,9,1,1,0,highway,0,80,2
+seg_003,Mağusa Yolu,6,10,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,11,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,12,1,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,6,13,1,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,6,14,1,0,1,highway,0,80,1
+seg_003,Mağusa Yolu,6,15,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,16,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,17,1,1,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,18,1,1,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,19,1,1,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,20,1,0,0,highway,0,80,2
+seg_003,Mağusa Yolu,6,21,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,22,1,0,0,highway,0,80,1
+seg_003,Mağusa Yolu,6,23,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,0,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,1,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,2,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,3,0,0,0,highway,0,80,2
+seg_004,Girne Çevreyolu,0,4,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,5,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,6,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,7,0,1,0,highway,0,80,3
+seg_004,Girne Çevreyolu,0,8,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,0,9,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,0,10,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,11,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,12,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,0,13,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,0,14,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,0,15,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,16,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,17,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,0,18,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,0,19,0,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,20,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,21,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,22,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,0,23,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,0,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,1,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,2,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,3,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,4,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,5,0,0,0,highway,0,80,2
+seg_004,Girne Çevreyolu,1,6,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,7,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,1,8,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,1,9,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,1,10,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,11,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,12,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,1,13,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,1,14,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,1,15,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,16,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,17,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,1,18,0,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,19,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,1,20,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,21,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,22,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,1,23,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,0,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,1,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,2,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,3,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,4,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,5,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,6,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,7,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,2,8,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,2,9,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,2,10,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,11,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,12,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,2,13,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,2,14,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,2,15,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,16,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,17,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,2,18,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,2,19,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,2,20,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,21,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,22,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,2,23,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,3,0,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,3,1,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,3,2,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,3,3,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,3,4,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,3,5,0,0,0,highway,0,80,2
+seg_004,Girne Çevreyolu,3,6,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,3,7,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,3,8,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,3,9,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,3,10,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,3,11,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,3,12,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,3,13,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,3,14,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,3,15,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,3,16,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,3,17,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,3,18,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,3,19,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,3,20,0,0,0,highway,0,80,2
+seg_004,Girne Çevreyolu,3,21,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,3,22,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,3,23,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,4,0,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,4,1,0,0,0,highway,0,80,2
+seg_004,Girne Çevreyolu,4,2,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,4,3,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,4,4,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,4,5,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,4,6,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,4,7,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,4,8,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,4,9,0,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,4,10,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,4,11,0,0,0,highway,0,80,2
+seg_004,Girne Çevreyolu,4,12,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,4,13,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,4,14,0,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,4,15,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,4,16,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,4,17,0,1,0,highway,0,80,3
+seg_004,Girne Çevreyolu,4,18,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,4,19,0,1,0,highway,0,80,2
+seg_004,Girne Çevreyolu,4,20,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,4,21,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,4,22,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,4,23,0,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,0,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,1,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,2,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,3,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,4,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,5,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,6,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,7,1,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,8,1,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,9,1,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,10,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,11,1,0,0,highway,0,80,2
+seg_004,Girne Çevreyolu,5,12,1,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,5,13,1,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,5,14,1,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,5,15,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,16,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,17,1,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,18,1,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,19,1,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,20,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,21,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,22,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,5,23,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,0,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,1,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,2,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,3,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,4,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,5,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,6,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,7,1,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,8,1,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,9,1,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,10,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,11,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,12,1,0,1,highway,0,80,2
+seg_004,Girne Çevreyolu,6,13,1,0,1,highway,0,80,1
+seg_004,Girne Çevreyolu,6,14,1,0,1,highway,0,80,2
+seg_004,Girne Çevreyolu,6,15,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,16,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,17,1,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,18,1,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,19,1,1,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,20,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,21,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,22,1,0,0,highway,0,80,1
+seg_004,Girne Çevreyolu,6,23,1,0,0,highway,0,80,1
+seg_005,Dereboyu,0,0,0,0,0,urban,1,50,1
+seg_005,Dereboyu,0,1,0,0,0,urban,1,50,2
+seg_005,Dereboyu,0,2,0,0,0,urban,1,50,1
+seg_005,Dereboyu,0,3,0,0,0,urban,1,50,3
+seg_005,Dereboyu,0,4,0,0,0,urban,1,50,1
+seg_005,Dereboyu,0,5,0,0,0,urban,1,50,1
+seg_005,Dereboyu,0,6,0,0,0,urban,1,50,1
+seg_005,Dereboyu,0,7,0,1,0,urban,1,50,3
+seg_005,Dereboyu,0,8,0,1,0,urban,1,50,3
+seg_005,Dereboyu,0,9,0,1,0,urban,1,50,3
+seg_005,Dereboyu,0,10,0,0,0,urban,1,50,1
+seg_005,Dereboyu,0,11,0,0,0,urban,1,50,1
+seg_005,Dereboyu,0,12,0,0,1,urban,1,50,2
+seg_005,Dereboyu,0,13,0,0,1,urban,1,50,2
+seg_005,Dereboyu,0,14,0,0,1,urban,1,50,2
+seg_005,Dereboyu,0,15,0,0,0,urban,1,50,1
+seg_005,Dereboyu,0,16,0,0,0,urban,1,50,1
+seg_005,Dereboyu,0,17,0,1,0,urban,1,50,3
+seg_005,Dereboyu,0,18,0,1,0,urban,1,50,3
+seg_005,Dereboyu,0,19,0,1,0,urban,1,50,2
+seg_005,Dereboyu,0,20,0,0,0,urban,1,50,1
+seg_005,Dereboyu,0,21,0,0,0,urban,1,50,2
+seg_005,Dereboyu,0,22,0,0,0,urban,1,50,2
+seg_005,Dereboyu,0,23,0,0,0,urban,1,50,2
+seg_005,Dereboyu,1,0,0,0,0,urban,1,50,2
+seg_005,Dereboyu,1,1,0,0,0,urban,1,50,1
+seg_005,Dereboyu,1,2,0,0,0,urban,1,50,3
+seg_005,Dereboyu,1,3,0,0,0,urban,1,50,2
+seg_005,Dereboyu,1,4,0,0,0,urban,1,50,1
+seg_005,Dereboyu,1,5,0,0,0,urban,1,50,1
+seg_005,Dereboyu,1,6,0,0,0,urban,1,50,1
+seg_005,Dereboyu,1,7,0,1,0,urban,1,50,3
+seg_005,Dereboyu,1,8,0,1,0,urban,1,50,2
+seg_005,Dereboyu,1,9,0,1,0,urban,1,50,3
+seg_005,Dereboyu,1,10,0,0,0,urban,1,50,1
+seg_005,Dereboyu,1,11,0,0,0,urban,1,50,2
+seg_005,Dereboyu,1,12,0,0,1,urban,1,50,2
+seg_005,Dereboyu,1,13,0,0,1,urban,1,50,2
+seg_005,Dereboyu,1,14,0,0,1,urban,1,50,3
+seg_005,Dereboyu,1,15,0,0,0,urban,1,50,1
+seg_005,Dereboyu,1,16,0,0,0,urban,1,50,2
+seg_005,Dereboyu,1,17,0,1,0,urban,1,50,3
+seg_005,Dereboyu,1,18,0,1,0,urban,1,50,3
+seg_005,Dereboyu,1,19,0,1,0,urban,1,50,3
+seg_005,Dereboyu,1,20,0,0,0,urban,1,50,1
+seg_005,Dereboyu,1,21,0,0,0,urban,1,50,2
+seg_005,Dereboyu,1,22,0,0,0,urban,1,50,2
+seg_005,Dereboyu,1,23,0,0,0,urban,1,50,3
+seg_005,Dereboyu,2,0,0,0,0,urban,1,50,2
+seg_005,Dereboyu,2,1,0,0,0,urban,1,50,1
+seg_005,Dereboyu,2,2,0,0,0,urban,1,50,1
+seg_005,Dereboyu,2,3,0,0,0,urban,1,50,2
+seg_005,Dereboyu,2,4,0,0,0,urban,1,50,1
+seg_005,Dereboyu,2,5,0,0,0,urban,1,50,1
+seg_005,Dereboyu,2,6,0,0,0,urban,1,50,1
+seg_005,Dereboyu,2,7,0,1,0,urban,1,50,3
+seg_005,Dereboyu,2,8,0,1,0,urban,1,50,3
+seg_005,Dereboyu,2,9,0,1,0,urban,1,50,3
+seg_005,Dereboyu,2,10,0,0,0,urban,1,50,1
+seg_005,Dereboyu,2,11,0,0,0,urban,1,50,1
+seg_005,Dereboyu,2,12,0,0,1,urban,1,50,2
+seg_005,Dereboyu,2,13,0,0,1,urban,1,50,3
+seg_005,Dereboyu,2,14,0,0,1,urban,1,50,2
+seg_005,Dereboyu,2,15,0,0,0,urban,1,50,1
+seg_005,Dereboyu,2,16,0,0,0,urban,1,50,2
+seg_005,Dereboyu,2,17,0,1,0,urban,1,50,3
+seg_005,Dereboyu,2,18,0,1,0,urban,1,50,3
+seg_005,Dereboyu,2,19,0,1,0,urban,1,50,3
+seg_005,Dereboyu,2,20,0,0,0,urban,1,50,1
+seg_005,Dereboyu,2,21,0,0,0,urban,1,50,2
+seg_005,Dereboyu,2,22,0,0,0,urban,1,50,2
+seg_005,Dereboyu,2,23,0,0,0,urban,1,50,2
+seg_005,Dereboyu,3,0,0,0,0,urban,1,50,1
+seg_005,Dereboyu,3,1,0,0,0,urban,1,50,1
+seg_005,Dereboyu,3,2,0,0,0,urban,1,50,1
+seg_005,Dereboyu,3,3,0,0,0,urban,1,50,1
+seg_005,Dereboyu,3,4,0,0,0,urban,1,50,2
+seg_005,Dereboyu,3,5,0,0,0,urban,1,50,1
+seg_005,Dereboyu,3,6,0,0,0,urban,1,50,1
+seg_005,Dereboyu,3,7,0,1,0,urban,1,50,3
+seg_005,Dereboyu,3,8,0,1,0,urban,1,50,3
+seg_005,Dereboyu,3,9,0,1,0,urban,1,50,3
+seg_005,Dereboyu,3,10,0,0,0,urban,1,50,1
+seg_005,Dereboyu,3,11,0,0,0,urban,1,50,1
+seg_005,Dereboyu,3,12,0,0,1,urban,1,50,3
+seg_005,Dereboyu,3,13,0,0,1,urban,1,50,3
+seg_005,Dereboyu,3,14,0,0,1,urban,1,50,3
+seg_005,Dereboyu,3,15,0,0,0,urban,1,50,2
+seg_005,Dereboyu,3,16,0,0,0,urban,1,50,2
+seg_005,Dereboyu,3,17,0,1,0,urban,1,50,2
+seg_005,Dereboyu,3,18,0,1,0,urban,1,50,3
+seg_005,Dereboyu,3,19,0,1,0,urban,1,50,3
+seg_005,Dereboyu,3,20,0,0,0,urban,1,50,1
+seg_005,Dereboyu,3,21,0,0,0,urban,1,50,1
+seg_005,Dereboyu,3,22,0,0,0,urban,1,50,3
+seg_005,Dereboyu,3,23,0,0,0,urban,1,50,2
+seg_005,Dereboyu,4,0,0,0,0,urban,1,50,1
+seg_005,Dereboyu,4,1,0,0,0,urban,1,50,1
+seg_005,Dereboyu,4,2,0,0,0,urban,1,50,1
+seg_005,Dereboyu,4,3,0,0,0,urban,1,50,1
+seg_005,Dereboyu,4,4,0,0,0,urban,1,50,2
+seg_005,Dereboyu,4,5,0,0,0,urban,1,50,1
+seg_005,Dereboyu,4,6,0,0,0,urban,1,50,1
+seg_005,Dereboyu,4,7,0,1,0,urban,1,50,3
+seg_005,Dereboyu,4,8,0,1,0,urban,1,50,3
+seg_005,Dereboyu,4,9,0,1,0,urban,1,50,3
+seg_005,Dereboyu,4,10,0,0,0,urban,1,50,2
+seg_005,Dereboyu,4,11,0,0,0,urban,1,50,2
+seg_005,Dereboyu,4,12,0,0,1,urban,1,50,2
+seg_005,Dereboyu,4,13,0,0,1,urban,1,50,2
+seg_005,Dereboyu,4,14,0,0,1,urban,1,50,3
+seg_005,Dereboyu,4,15,0,0,0,urban,1,50,2
+seg_005,Dereboyu,4,16,0,0,0,urban,1,50,1
+seg_005,Dereboyu,4,17,0,1,0,urban,1,50,3
+seg_005,Dereboyu,4,18,0,1,0,urban,1,50,3
+seg_005,Dereboyu,4,19,0,1,0,urban,1,50,3
+seg_005,Dereboyu,4,20,0,0,0,urban,1,50,2
+seg_005,Dereboyu,4,21,0,0,0,urban,1,50,2
+seg_005,Dereboyu,4,22,0,0,0,urban,1,50,2
+seg_005,Dereboyu,4,23,0,0,0,urban,1,50,1
+seg_005,Dereboyu,5,0,1,0,0,urban,1,50,2
+seg_005,Dereboyu,5,1,1,0,0,urban,1,50,2
+seg_005,Dereboyu,5,2,1,0,0,urban,1,50,1
+seg_005,Dereboyu,5,3,1,0,0,urban,1,50,1
+seg_005,Dereboyu,5,4,1,0,0,urban,1,50,1
+seg_005,Dereboyu,5,5,1,0,0,urban,1,50,1
+seg_005,Dereboyu,5,6,1,0,0,urban,1,50,1
+seg_005,Dereboyu,5,7,1,1,0,urban,1,50,2
+seg_005,Dereboyu,5,8,1,1,0,urban,1,50,1
+seg_005,Dereboyu,5,9,1,1,0,urban,1,50,2
+seg_005,Dereboyu,5,10,1,0,0,urban,1,50,1
+seg_005,Dereboyu,5,11,1,0,0,urban,1,50,1
+seg_005,Dereboyu,5,12,1,0,1,urban,1,50,1
+seg_005,Dereboyu,5,13,1,0,1,urban,1,50,1
+seg_005,Dereboyu,5,14,1,0,1,urban,1,50,2
+seg_005,Dereboyu,5,15,1,0,0,urban,1,50,1
+seg_005,Dereboyu,5,16,1,0,0,urban,1,50,1
+seg_005,Dereboyu,5,17,1,1,0,urban,1,50,1
+seg_005,Dereboyu,5,18,1,1,0,urban,1,50,2
+seg_005,Dereboyu,5,19,1,1,0,urban,1,50,2
+seg_005,Dereboyu,5,20,1,0,0,urban,1,50,1
+seg_005,Dereboyu,5,21,1,0,0,urban,1,50,1
+seg_005,Dereboyu,5,22,1,0,0,urban,1,50,1
+seg_005,Dereboyu,5,23,1,0,0,urban,1,50,2
+seg_005,Dereboyu,6,0,1,0,0,urban,1,50,1
+seg_005,Dereboyu,6,1,1,0,0,urban,1,50,1
+seg_005,Dereboyu,6,2,1,0,0,urban,1,50,2
+seg_005,Dereboyu,6,3,1,0,0,urban,1,50,1
+seg_005,Dereboyu,6,4,1,0,0,urban,1,50,2
+seg_005,Dereboyu,6,5,1,0,0,urban,1,50,2
+seg_005,Dereboyu,6,6,1,0,0,urban,1,50,1
+seg_005,Dereboyu,6,7,1,1,0,urban,1,50,2
+seg_005,Dereboyu,6,8,1,1,0,urban,1,50,2
+seg_005,Dereboyu,6,9,1,1,0,urban,1,50,2
+seg_005,Dereboyu,6,10,1,0,0,urban,1,50,1
+seg_005,Dereboyu,6,11,1,0,0,urban,1,50,1
+seg_005,Dereboyu,6,12,1,0,1,urban,1,50,1
+seg_005,Dereboyu,6,13,1,0,1,urban,1,50,2
+seg_005,Dereboyu,6,14,1,0,1,urban,1,50,2
+seg_005,Dereboyu,6,15,1,0,0,urban,1,50,1
+seg_005,Dereboyu,6,16,1,0,0,urban,1,50,1
+seg_005,Dereboyu,6,17,1,1,0,urban,1,50,2
+seg_005,Dereboyu,6,18,1,1,0,urban,1,50,3
+seg_005,Dereboyu,6,19,1,1,0,urban,1,50,3
+seg_005,Dereboyu,6,20,1,0,0,urban,1,50,1
+seg_005,Dereboyu,6,21,1,0,0,urban,1,50,1
+seg_005,Dereboyu,6,22,1,0,0,urban,1,50,1
+seg_005,Dereboyu,6,23,1,0,0,urban,1,50,2
+seg_006,Lefkoşa Merkez,0,0,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,0,1,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,0,2,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,0,3,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,0,4,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,0,5,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,0,6,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,0,7,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,0,8,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,0,9,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,0,10,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,0,11,0,0,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,0,12,0,0,1,urban,1,30,2
+seg_006,Lefkoşa Merkez,0,13,0,0,1,urban,1,30,3
+seg_006,Lefkoşa Merkez,0,14,0,0,1,urban,1,30,3
+seg_006,Lefkoşa Merkez,0,15,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,0,16,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,0,17,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,0,18,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,0,19,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,0,20,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,0,21,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,0,22,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,0,23,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,1,0,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,1,1,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,1,2,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,1,3,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,1,4,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,1,5,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,1,6,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,1,7,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,1,8,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,1,9,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,1,10,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,1,11,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,1,12,0,0,1,urban,1,30,2
+seg_006,Lefkoşa Merkez,1,13,0,0,1,urban,1,30,3
+seg_006,Lefkoşa Merkez,1,14,0,0,1,urban,1,30,2
+seg_006,Lefkoşa Merkez,1,15,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,1,16,0,0,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,1,17,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,1,18,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,1,19,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,1,20,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,1,21,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,1,22,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,1,23,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,2,0,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,2,1,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,2,2,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,2,3,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,2,4,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,2,5,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,2,6,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,2,7,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,2,8,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,2,9,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,2,10,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,2,11,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,2,12,0,0,1,urban,1,30,2
+seg_006,Lefkoşa Merkez,2,13,0,0,1,urban,1,30,3
+seg_006,Lefkoşa Merkez,2,14,0,0,1,urban,1,30,3
+seg_006,Lefkoşa Merkez,2,15,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,2,16,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,2,17,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,2,18,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,2,19,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,2,20,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,2,21,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,2,22,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,2,23,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,3,0,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,3,1,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,3,2,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,3,3,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,3,4,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,3,5,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,3,6,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,3,7,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,3,8,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,3,9,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,3,10,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,3,11,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,3,12,0,0,1,urban,1,30,2
+seg_006,Lefkoşa Merkez,3,13,0,0,1,urban,1,30,1
+seg_006,Lefkoşa Merkez,3,14,0,0,1,urban,1,30,2
+seg_006,Lefkoşa Merkez,3,15,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,3,16,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,3,17,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,3,18,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,3,19,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,3,20,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,3,21,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,3,22,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,3,23,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,4,0,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,4,1,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,4,2,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,4,3,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,4,4,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,4,5,0,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,4,6,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,4,7,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,4,8,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,4,9,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,4,10,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,4,11,0,0,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,4,12,0,0,1,urban,1,30,2
+seg_006,Lefkoşa Merkez,4,13,0,0,1,urban,1,30,3
+seg_006,Lefkoşa Merkez,4,14,0,0,1,urban,1,30,3
+seg_006,Lefkoşa Merkez,4,15,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,4,16,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,4,17,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,4,18,0,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,4,19,0,1,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,4,20,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,4,21,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,4,22,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,4,23,0,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,5,0,1,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,5,1,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,5,2,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,5,3,1,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,5,4,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,5,5,1,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,5,6,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,5,7,1,1,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,5,8,1,1,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,5,9,1,1,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,5,10,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,5,11,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,5,12,1,0,1,urban,1,30,1
+seg_006,Lefkoşa Merkez,5,13,1,0,1,urban,1,30,2
+seg_006,Lefkoşa Merkez,5,14,1,0,1,urban,1,30,1
+seg_006,Lefkoşa Merkez,5,15,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,5,16,1,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,5,17,1,1,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,5,18,1,1,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,5,19,1,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,5,20,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,5,21,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,5,22,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,5,23,1,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,6,0,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,6,1,1,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,6,2,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,6,3,1,0,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,6,4,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,6,5,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,6,6,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,6,7,1,1,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,6,8,1,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,6,9,1,1,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,6,10,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,6,11,1,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,6,12,1,0,1,urban,1,30,1
+seg_006,Lefkoşa Merkez,6,13,1,0,1,urban,1,30,1
+seg_006,Lefkoşa Merkez,6,14,1,0,1,urban,1,30,1
+seg_006,Lefkoşa Merkez,6,15,1,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,6,16,1,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,6,17,1,1,0,urban,1,30,3
+seg_006,Lefkoşa Merkez,6,18,1,1,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,6,19,1,1,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,6,20,1,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,6,21,1,0,0,urban,1,30,2
+seg_006,Lefkoşa Merkez,6,22,1,0,0,urban,1,30,1
+seg_006,Lefkoşa Merkez,6,23,1,0,0,urban,1,30,1
+seg_007,Gazimağusa Giriş,0,0,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,0,1,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,0,2,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,0,3,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,0,4,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,0,5,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,0,6,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,0,7,0,1,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,0,8,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,0,9,0,1,0,highway,1,80,3
+seg_007,Gazimağusa Giriş,0,10,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,0,11,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,0,12,0,0,1,highway,1,80,1
+seg_007,Gazimağusa Giriş,0,13,0,0,1,highway,1,80,1
+seg_007,Gazimağusa Giriş,0,14,0,0,1,highway,1,80,1
+seg_007,Gazimağusa Giriş,0,15,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,0,16,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,0,17,0,1,0,highway,1,80,3
+seg_007,Gazimağusa Giriş,0,18,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,0,19,0,1,0,highway,1,80,3
+seg_007,Gazimağusa Giriş,0,20,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,0,21,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,0,22,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,0,23,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,1,0,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,1,1,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,1,2,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,1,3,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,1,4,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,1,5,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,1,6,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,1,7,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,1,8,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,1,9,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,1,10,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,1,11,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,1,12,0,0,1,highway,1,80,1
+seg_007,Gazimağusa Giriş,1,13,0,0,1,highway,1,80,2
+seg_007,Gazimağusa Giriş,1,14,0,0,1,highway,1,80,2
+seg_007,Gazimağusa Giriş,1,15,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,1,16,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,1,17,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,1,18,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,1,19,0,1,0,highway,1,80,3
+seg_007,Gazimağusa Giriş,1,20,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,1,21,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,1,22,0,0,0,highway,1,80,3
+seg_007,Gazimağusa Giriş,1,23,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,2,0,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,1,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,2,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,2,3,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,4,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,5,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,6,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,7,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,2,8,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,2,9,0,1,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,10,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,11,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,12,0,0,1,highway,1,80,2
+seg_007,Gazimağusa Giriş,2,13,0,0,1,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,14,0,0,1,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,15,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,16,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,17,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,2,18,0,1,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,19,0,1,0,highway,1,80,3
+seg_007,Gazimağusa Giriş,2,20,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,21,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,22,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,2,23,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,3,0,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,3,1,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,3,2,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,3,3,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,3,4,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,3,5,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,3,6,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,3,7,0,1,0,highway,1,80,3
+seg_007,Gazimağusa Giriş,3,8,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,3,9,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,3,10,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,3,11,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,3,12,0,0,1,highway,1,80,2
+seg_007,Gazimağusa Giriş,3,13,0,0,1,highway,1,80,1
+seg_007,Gazimağusa Giriş,3,14,0,0,1,highway,1,80,2
+seg_007,Gazimağusa Giriş,3,15,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,3,16,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,3,17,0,1,0,highway,1,80,3
+seg_007,Gazimağusa Giriş,3,18,0,1,0,highway,1,80,3
+seg_007,Gazimağusa Giriş,3,19,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,3,20,0,0,0,highway,1,80,3
+seg_007,Gazimağusa Giriş,3,21,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,3,22,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,3,23,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,4,0,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,4,1,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,4,2,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,4,3,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,4,4,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,4,5,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,4,6,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,4,7,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,4,8,0,1,0,highway,1,80,3
+seg_007,Gazimağusa Giriş,4,9,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,4,10,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,4,11,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,4,12,0,0,1,highway,1,80,1
+seg_007,Gazimağusa Giriş,4,13,0,0,1,highway,1,80,1
+seg_007,Gazimağusa Giriş,4,14,0,0,1,highway,1,80,1
+seg_007,Gazimağusa Giriş,4,15,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,4,16,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,4,17,0,1,0,highway,1,80,3
+seg_007,Gazimağusa Giriş,4,18,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,4,19,0,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,4,20,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,4,21,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,4,22,0,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,4,23,0,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,0,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,1,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,2,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,3,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,4,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,5,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,6,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,7,1,1,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,8,1,1,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,9,1,1,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,10,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,11,1,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,5,12,1,0,1,highway,1,80,2
+seg_007,Gazimağusa Giriş,5,13,1,0,1,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,14,1,0,1,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,15,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,16,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,17,1,1,0,highway,1,80,3
+seg_007,Gazimağusa Giriş,5,18,1,1,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,19,1,1,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,20,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,21,1,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,5,22,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,5,23,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,0,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,1,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,2,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,3,1,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,6,4,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,5,1,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,6,6,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,7,1,1,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,8,1,1,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,9,1,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,6,10,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,11,1,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,6,12,1,0,1,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,13,1,0,1,highway,1,80,2
+seg_007,Gazimağusa Giriş,6,14,1,0,1,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,15,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,16,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,17,1,1,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,6,18,1,1,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,19,1,1,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,20,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,21,1,0,0,highway,1,80,1
+seg_007,Gazimağusa Giriş,6,22,1,0,0,highway,1,80,2
+seg_007,Gazimağusa Giriş,6,23,1,0,0,highway,1,80,1
+seg_008,Lefke Yolu,0,0,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,0,1,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,0,2,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,0,3,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,0,4,0,0,0,rural,0,80,2
+seg_008,Lefke Yolu,0,5,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,0,6,0,0,0,rural,0,80,2
+seg_008,Lefke Yolu,0,7,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,0,8,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,0,9,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,0,10,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,0,11,0,0,0,rural,0,80,2
+seg_008,Lefke Yolu,0,12,0,0,1,rural,0,80,1
+seg_008,Lefke Yolu,0,13,0,0,1,rural,0,80,1
+seg_008,Lefke Yolu,0,14,0,0,1,rural,0,80,1
+seg_008,Lefke Yolu,0,15,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,0,16,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,0,17,0,1,0,rural,0,80,2
+seg_008,Lefke Yolu,0,18,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,0,19,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,0,20,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,0,21,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,0,22,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,0,23,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,0,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,1,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,2,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,3,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,4,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,5,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,6,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,7,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,1,8,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,1,9,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,1,10,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,11,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,12,0,0,1,rural,0,80,1
+seg_008,Lefke Yolu,1,13,0,0,1,rural,0,80,2
+seg_008,Lefke Yolu,1,14,0,0,1,rural,0,80,1
+seg_008,Lefke Yolu,1,15,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,16,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,17,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,1,18,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,1,19,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,1,20,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,21,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,22,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,1,23,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,0,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,1,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,2,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,3,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,4,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,5,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,6,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,7,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,2,8,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,2,9,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,2,10,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,11,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,12,0,0,1,rural,0,80,1
+seg_008,Lefke Yolu,2,13,0,0,1,rural,0,80,1
+seg_008,Lefke Yolu,2,14,0,0,1,rural,0,80,2
+seg_008,Lefke Yolu,2,15,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,16,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,17,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,2,18,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,2,19,0,1,0,rural,0,80,2
+seg_008,Lefke Yolu,2,20,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,21,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,22,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,2,23,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,3,0,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,3,1,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,3,2,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,3,3,0,0,0,rural,0,80,2
+seg_008,Lefke Yolu,3,4,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,3,5,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,3,6,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,3,7,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,3,8,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,3,9,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,3,10,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,3,11,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,3,12,0,0,1,rural,0,80,2
+seg_008,Lefke Yolu,3,13,0,0,1,rural,0,80,1
+seg_008,Lefke Yolu,3,14,0,0,1,rural,0,80,1
+seg_008,Lefke Yolu,3,15,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,3,16,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,3,17,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,3,18,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,3,19,0,1,0,rural,0,80,2
+seg_008,Lefke Yolu,3,20,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,3,21,0,0,0,rural,0,80,2
+seg_008,Lefke Yolu,3,22,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,3,23,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,4,0,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,4,1,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,4,2,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,4,3,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,4,4,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,4,5,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,4,6,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,4,7,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,4,8,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,4,9,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,4,10,0,0,0,rural,0,80,2
+seg_008,Lefke Yolu,4,11,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,4,12,0,0,1,rural,0,80,2
+seg_008,Lefke Yolu,4,13,0,0,1,rural,0,80,1
+seg_008,Lefke Yolu,4,14,0,0,1,rural,0,80,1
+seg_008,Lefke Yolu,4,15,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,4,16,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,4,17,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,4,18,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,4,19,0,1,0,rural,0,80,1
+seg_008,Lefke Yolu,4,20,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,4,21,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,4,22,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,4,23,0,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,0,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,1,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,2,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,3,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,4,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,5,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,6,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,7,1,1,0,rural,0,80,1
+seg_008,Lefke Yolu,5,8,1,1,0,rural,0,80,1
+seg_008,Lefke Yolu,5,9,1,1,0,rural,0,80,1
+seg_008,Lefke Yolu,5,10,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,11,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,12,1,0,1,rural,0,80,1
+seg_008,Lefke Yolu,5,13,1,0,1,rural,0,80,1
+seg_008,Lefke Yolu,5,14,1,0,1,rural,0,80,1
+seg_008,Lefke Yolu,5,15,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,16,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,17,1,1,0,rural,0,80,1
+seg_008,Lefke Yolu,5,18,1,1,0,rural,0,80,1
+seg_008,Lefke Yolu,5,19,1,1,0,rural,0,80,1
+seg_008,Lefke Yolu,5,20,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,21,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,22,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,5,23,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,6,0,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,6,1,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,6,2,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,6,3,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,6,4,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,6,5,1,0,0,rural,0,80,2
+seg_008,Lefke Yolu,6,6,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,6,7,1,1,0,rural,0,80,1
+seg_008,Lefke Yolu,6,8,1,1,0,rural,0,80,1
+seg_008,Lefke Yolu,6,9,1,1,0,rural,0,80,1
+seg_008,Lefke Yolu,6,10,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,6,11,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,6,12,1,0,1,rural,0,80,1
+seg_008,Lefke Yolu,6,13,1,0,1,rural,0,80,1
+seg_008,Lefke Yolu,6,14,1,0,1,rural,0,80,1
+seg_008,Lefke Yolu,6,15,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,6,16,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,6,17,1,1,0,rural,0,80,1
+seg_008,Lefke Yolu,6,18,1,1,0,rural,0,80,1
+seg_008,Lefke Yolu,6,19,1,1,0,rural,0,80,1
+seg_008,Lefke Yolu,6,20,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,6,21,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,6,22,1,0,0,rural,0,80,1
+seg_008,Lefke Yolu,6,23,1,0,0,rural,0,80,1
